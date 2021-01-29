@@ -5,6 +5,10 @@ Neste módulo vamos utilizar Python e Pandas para explorar os dados da distribui
 
 Projeto: Explorando dados financeiros do SUS.
 Ferramentas: Python, Pandas, Matplotlib e Numpy.
+
+Status: Concluído
+<br>
+<a href="https://github.com/lucasbragaperes/bootcamp_datascience/blob/gh-pages/(Mod01)Lucas_Braga_Peres_datascience_alura.ipynb">Clique aqui para ver o Notebook</a>
 <br>
 <hr>
 <br>
