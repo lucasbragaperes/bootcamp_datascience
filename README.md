@@ -5,7 +5,10 @@ Neste módulo vamos utilizar Python e Pandas para explorar os dados da distribui
 
 Projeto: Explorando dados financeiros do SUS.
 Ferramentas: Python, Pandas, Matplotlib e Numpy.
-
+<br>
+<br>
+Repositório das Aulas
+<br>
 Status: Concluído
 <br>
 <a href="https://github.com/lucasbragaperes/bootcamp_datascience/blob/gh-pages/(Mod01)Lucas_Braga_Peres_datascience_alura.ipynb">Clique aqui para ver o Notebook</a>
@@ -18,6 +21,12 @@ Vamos mais a fundo na análise exploratória de dados utilizando Seaborn, Matplo
 
 Projeto: Visualização e análise de dados aplicada a saúde.
 Ferramentas: Python, Pandas, Matplotlib e Seaborn.
+<br>
+<br>
+Repositório das Aulas
+<br>
+Status: Em Andamento
+<br>
 <br>
 <hr>
 <br>
